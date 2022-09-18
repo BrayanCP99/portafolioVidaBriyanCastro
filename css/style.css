@@ -1,0 +1,260 @@
+body{
+    background: url(../img/markus-spiske-yPBgHCsKdWE-unsplash.jpg);
+    
+}
+
+.menuW{
+    position: fixed;
+    z-index: 999999;
+    width: 100%;
+}
+header{
+    
+    width: 100%;
+}
+header nav{
+    background: white;     
+    border: 1px solid rgba(0, 0, 0, 0.404);
+
+}
+
+#section1{
+    background: rgba(0, 0, 0, 0);
+    display: flex;
+    
+}
+#section1 h2{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#section1 p{
+    color: white;
+    background: #00000044;
+    margin-top: 30px;
+    padding: 30px;
+    font-size: 28px;
+
+}
+#section2 p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    background: rgba(0, 0, 0, 0.418);
+    border-radius: 30%;
+}
+#section2 h3,h4{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+#section2 .card-hab{
+    background: hsla(0, 3%, 87%, 0.226);
+    max-width: 250px;
+    text-align: center;
+    margin: 10px 20px;
+    
+    
+}
+
+#section2 {
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 100%;
+    
+}
+
+#contactame h3 {
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+
+    
+}
+#contactame p{
+    
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: #0000002f;
+
+}
+
+
+#section2 .card1{
+    background: url(../img/js.png);
+    opacity: 20px;
+    margin: 50px;
+    border-radius: 100%;
+
+    
+}
+#section2 .card2 {
+    background: url(../img/css.png);
+    opacity: 20px;
+    margin: 50px;
+    border-radius: 100%;
+    
+}
+#section2 .card3 {
+    background: url(../img/oracle.png);
+    opacity: 20px;
+    margin: 50px;
+    border-radius: 100%;
+    
+
+}
+#section2 .card4 {
+    background: url(../img/php.png);
+    opacity: 20px;
+    margin: 50px;
+    border-radius: 100%;
+    
+    
+}
+
+
+.titulo {
+    color: white;
+    font-size: 40px;
+    padding: 84px;
+    text-align: center;
+    margin-top: 50px;
+}
+.navbar-brand img{
+    width: 100px;
+}
+
+#carousel-item {
+    padding-top: 200%;
+    margin-top: 200%;
+}
+
+#contactame{
+    padding-top: 50px;
+    margin-top: 50px;
+}
+#contactame h3{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+footer{
+    text-align: center;
+    background: #666666;
+    color: #ffffff;
+    padding-top: 40px;
+
+}
+.Informacion{
+    display: flex;
+    margin: 20px;
+}
+
+#whatsapp{
+    position: fixed;
+    right: 10px;
+    bottom: 20px;
+    z-index: 99999;
+}
+#section0 h2{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+#section0 p{
+    background: #4847475e;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 50px;
+    padding: 30px;
+}
+
+#section3 h3{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#section3 h5, h6, h7{
+    color: white;
+    font-size: 35px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
+    background: #4847475e;
+
+}
+#section3 p{
+    background: #48474792;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+#section3 .card1{
+    background: url(../img/graduacion.jpg);
+    opacity: 20px;
+    margin-top: 10px;
+}
+#section3 .card2 {
+    background: url(../img/Motores.jpg);
+    opacity: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+#section3 .card3 {
+    background: url(../img/programacion-2-e1551291144973.jpg);
+    opacity: 20px;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+
+#section4 h1{
+    color: white;
+    font-size: 40px;
+    padding: 80px;
+    text-align: center;
+    margin-top: 80px;
+
+}
+#section4 h9{
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 5px;
+}
+#section4 p{
+    background: #48474792;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#section4 .card5{
+    
+    margin-left: 90px;
+
+    
+}
